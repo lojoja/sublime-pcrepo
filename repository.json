@@ -1,0 +1,66 @@
+{
+  "schema_version": "3.0.0",
+
+  "packages": [
+    {
+      "name": "~lojojaPrefs",
+      "homepage": "https://github.com/lojoja/sublime-lojoja-prefs",
+      "description": "Persistent annotated preferences for Sublime Text.",
+      "details": "https://github.com/lojoja/sublime-lojoja-prefs",
+      "author": "lojoja",
+      "labels": [],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "platforms": ["*"],
+          "tags": true
+        }
+      ],
+      "previous_names": [],
+      "issues": null,
+      "readme": null,
+      "buy": null,
+      "donate": ""
+    },
+    {
+      "name": "Color Scheme - lojoja Colors",
+      "homepage": "https://github.com/lojoja/sublime-lojoja-colors",
+      "description": "lojoja color schemes for Sublime Text.",
+      "details": "https://github.com/lojoja/sublime-lojoja-colors",
+      "author": "lojoja",
+      "labels": ["color scheme"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "platforms": ["*"],
+          "tags": true
+        }
+      ],
+      "previous_names": [],
+      "issues": null,
+      "readme": null,
+      "buy": null,
+      "donate": ""
+    },
+    {
+      "name": "Config Files",
+      "homepage": "https://github.com/lojoja/sublime-syntax-config",
+      "description": "Syntax highlighting for various configuration file formats.",
+      "details": "https://github.com/lojoja/sublime-syntax-config",
+      "author": "lojoja",
+      "labels": ["language syntax"],
+      "releases": [
+        {
+          "sublime_text": ">=3084",
+          "platforms": ["*"],
+          "tags": true
+        }
+      ],
+      "previous_names": [],
+      "issues": null,
+      "readme": null,
+      "buy": null,
+      "donate": ""
+    }
+  ]
+}
