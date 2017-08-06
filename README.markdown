@@ -8,3 +8,8 @@ Use
 1. Open the Sublime Text Command Palette
 2. Select `Package Control: Add Repository`
 3. Enter the following URL: `https://raw.githubusercontent.com/lojoja/sublime-pcrepo/master/repository.json`
+
+
+License
+-------
+lojoja-pcrepo is released under the [MIT License](./LICENSE)
