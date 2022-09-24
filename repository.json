@@ -3,26 +3,6 @@
 
   "packages": [
     {
-      "name": "~lojojaPrefs",
-      "homepage": "https://github.com/lojoja/sublime-lojoja-prefs",
-      "description": "Persistent annotated preferences for Sublime Text.",
-      "details": "https://github.com/lojoja/sublime-lojoja-prefs",
-      "author": "lojoja",
-      "labels": [],
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "platforms": ["*"],
-          "tags": true
-        }
-      ],
-      "previous_names": [],
-      "issues": null,
-      "readme": null,
-      "buy": null,
-      "donate": ""
-    },
-    {
       "name": "Color Scheme - lojoja Colors",
       "homepage": "https://github.com/lojoja/sublime-lojoja-colors",
       "description": "lojoja color schemes for Sublime Text.",
