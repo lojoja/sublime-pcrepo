@@ -24,23 +24,23 @@
     },
     {
       "name": "Config Files",
-      "homepage": "https://github.com/lojoja/sublime-syntax-config",
       "description": "Syntax highlighting for various configuration file formats.",
+      "homepage": "https://github.com/lojoja/sublime-syntax-config",
       "details": "https://github.com/lojoja/sublime-syntax-config",
+      "readme": "https://raw.githubusercontent.com/lojoja/sublime-syntax-config/main/README.markdown",
+      "issues": "https://github.com/lojoja/sublime-syntax-config/issues",
       "author": "lojoja",
-      "labels": ["language syntax"],
+      "labels": ["lojoja", "language syntax"],
+      "previous_names": [],
+      "buy": null,
+      "donate": null,
       "releases": [
         {
-          "sublime_text": ">=3084",
+          "sublime_text": ">=3149",
           "platforms": ["*"],
           "tags": true
         }
-      ],
-      "previous_names": [],
-      "issues": null,
-      "readme": null,
-      "buy": null,
-      "donate": null
+      ]
     }
   ]
 }
