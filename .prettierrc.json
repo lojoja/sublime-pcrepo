@@ -1,0 +1,16 @@
+{
+  "endOfLine": "lf",
+  "printWidth": 120,
+  "quoteProps": "consistent",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.sublime-project"],
+      "options": {
+        "parser": "jsonc"
+      }
+    }
+  ]
+}
