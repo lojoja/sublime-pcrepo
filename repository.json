@@ -41,6 +41,26 @@
           "tags": true
         }
       ]
+    },
+    {
+      "name": "Ωlojoja",
+      "description": "The lojoja Sublime Text environment.",
+      "homepage": "https://github.com/lojoja/sublime-lojoja",
+      "details": "https://github.com/lojoja/sublime-lojoja",
+      "readme": "https://raw.githubusercontent.com/lojoja/sublime-lojoja/raw/branch/main/README.md",
+      "issues": "https://github.com/lojoja/sublime-lojoja/issues",
+      "author": "lojoja",
+      "labels": ["lojoja", "preferences", "environment"],
+      "previous_names": [],
+      "buy": null,
+      "donate": null,
+      "releases": [
+        {
+          "sublime_text": ">=4000",
+          "platforms": ["*"],
+          "tags": true
+        }
+      ]
     }
   ]
 }
