@@ -4,23 +4,23 @@
   "packages": [
     {
       "name": "Color Scheme - lojoja Colors",
-      "homepage": "https://github.com/lojoja/sublime-lojoja-colors",
       "description": "lojoja color schemes for Sublime Text.",
+      "homepage": "https://github.com/lojoja/sublime-lojoja-colors",
       "details": "https://github.com/lojoja/sublime-lojoja-colors",
+      "readme": "https://raw.githubusercontent.com/lojoja/sublime-lojoja-colors/main/README.md",
+      "issues": "https://github.com/lojoja/sublime-lojoja-colors/issues",
       "author": "lojoja",
-      "labels": ["color scheme"],
+      "labels": ["lojoja", "color scheme"],
+      "previous_names": [],
+      "buy": null,
+      "donate": null,
       "releases": [
         {
           "sublime_text": ">=3149",
           "platforms": ["*"],
           "tags": true
         }
-      ],
-      "previous_names": [],
-      "issues": null,
-      "readme": null,
-      "buy": null,
-      "donate": null
+      ]
     },
     {
       "name": "Config Files",
