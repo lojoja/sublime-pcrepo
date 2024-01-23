@@ -1,6 +1,6 @@
 {
-  "schema_version": "3.0.0",
-
+  "$schema": "sublime://packagecontrol.io/schemas/repository",
+  "schema_version": "4.0.0",
   "packages": [
     {
       "name": "Color Scheme - lojoja Colors",
@@ -20,7 +20,7 @@
       "issues": null,
       "readme": null,
       "buy": null,
-      "donate": ""
+      "donate": null
     },
     {
       "name": "Config Files",
@@ -40,7 +40,7 @@
       "issues": null,
       "readme": null,
       "buy": null,
-      "donate": ""
+      "donate": null
     }
   ]
 }
