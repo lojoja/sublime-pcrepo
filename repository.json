@@ -56,7 +56,7 @@
       "donate": null,
       "releases": [
         {
-          "sublime_text": ">=4000",
+          "sublime_text": ">=4078",
           "platforms": ["*"],
           "tags": true
         }
